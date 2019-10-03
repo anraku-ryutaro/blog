@@ -1,0 +1,29 @@
+header {
+  height: 100px;
+  width: 100%;
+  background-color: aquamarine;
+  padding: 10px 10px 20px 10px;
+  text-align: center;
+  
+}
+body{
+  background-color: antiquewhite;
+}
+
+.content_post {
+  height: 400px;
+  width: 80%;
+  color: azure;
+  margin: 0 auto;
+  background-color: black;
+}
+
+p {
+font-size: 50px;
+}
+footer {
+  height: 100px;
+  width: 100%;
+  background-color: aquamarine;
+  text-align: center;
+}
